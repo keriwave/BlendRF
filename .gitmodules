@@ -1,0 +1,3 @@
+[submodule "TensoRF"]
+	path = TensoRF
+	url = https://github.com/johnykeri/TensoRF.git
