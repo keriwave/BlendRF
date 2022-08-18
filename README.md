@@ -1,4 +1,5 @@
 # BlendRF
+A blender addon of TensorRF by apchenstu
 
 Install environment:
 ```
